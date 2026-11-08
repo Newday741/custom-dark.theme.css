@@ -1,0 +1,25 @@
+/**
+ * @name ModernDark
+ * @author Newday741
+ * @description Discord için minimalist ve şık bir koyu tema özelleştirmesi.
+ * @version 1.0.0
+ */
+
+:root {
+    --background-primary: #11111b;
+    --background-secondary: #181825;
+    --background-secondary-alt: #1e1e2e;
+    --background-tertiary: #11111b;
+    --accent-color: #89b4fa;
+}
+
+.sidebar-1tnWFu, 
+.chatContent-aFi8w6 {
+    border-radius: 8px;
+    margin: 4px;
+}
+
+.scrollableContainer-15eg7h {
+    background-color: var(--background-secondary-alt);
+    border: 1px solid rgba(255, 255, 255, 0.05);
+}
